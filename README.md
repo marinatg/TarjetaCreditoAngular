@@ -1,2 +1,2 @@
 # TarjetaCreditoAngular
-(Falta añadir el backend tbase de datos)
+(Falta añadir el backend y base de datos)
